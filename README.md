@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-priyadarshi-2027-linked/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-priyadarshi-885b92249/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/prashant2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prashant2027" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prashant2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prashant2027" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prashantpriyada4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prashantpriyada4" height="30" width="40" /></a>
 </p>
 
