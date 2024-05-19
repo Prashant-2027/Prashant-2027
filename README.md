@@ -1,3 +1,4 @@
+![logo](https://github.com/Prashant-2027/Prashant-2027/blob/main/1000_F_429998837_c5rmqMs41EJnpXqcFMQMjcLA42cDnaJF.jpg)
 <h1 align="center">Hi 👋, I'm Prashant Priyadarshi</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
